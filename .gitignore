@@ -1,0 +1,13 @@
+# Flutter / Dart build outputs
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+**/pubspec.lock
+
+# IDE and cache files
+**/.idea/
+**/*.iml
+**/.vscode/
+**/.DS_Store
