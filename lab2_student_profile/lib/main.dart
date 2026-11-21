@@ -58,7 +58,7 @@ class StudentProfileScreen extends StatelessWidget {
                       radius: 36,
                       backgroundColor: const Color(0xFFA5D6A7),
                       child: Text(
-                        'JB',
+                        'AP',
                         style: TextStyle(
                           fontSize: 24,
                           fontWeight: FontWeight.bold,
@@ -72,7 +72,7 @@ class StudentProfileScreen extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const [
                           Text(
-                            'Joneil Bright V. Gomez',
+                            'Alyssa P. Pitong',
                             style: TextStyle(
                               fontSize: 18,
                               fontWeight: FontWeight.bold,
@@ -98,13 +98,13 @@ class StudentProfileScreen extends StatelessWidget {
               // 1. Name
               _buildProfileField(
                 label: 'Name',
-                value: 'Joneil Bright V. Gomez',
+                value: 'Alyssa P. Pitong',
               ),
 
               // 2. Age
               _buildProfileField(
                 label: 'Age',
-                value: '20',
+                value: '21',
               ),
 
               // 3. Course/Year/Section
@@ -124,7 +124,7 @@ class StudentProfileScreen extends StatelessWidget {
               _buildProfileField(
                 label: 'Achievements',
                 value:
-                    '• System Analyst & QA Lead for the Bureau of Debugging student development team\n• Lead Systems Analyst on the BayaniHub SK Operations Management System',
+                    '• Project Manager for districtlens',
               ),
 
               // 6. Skills
